@@ -1,2 +1,2 @@
 # Meu-Primeiro-C-digo
-aula 01 git
+Aula 01 de Programação Java script
